@@ -64,3 +64,5 @@ export const Page = ({ user, onLogin, onLogout, onCreateAccount }: PageProps) =>
     </section>
   </article>
 );
+
+export default Page;
